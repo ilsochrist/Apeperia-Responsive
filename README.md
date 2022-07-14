@@ -11,6 +11,6 @@ Web link: https://apeperia-ilso.netlify.app/
 <li>CSS</li>
 </ul>
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/100448527/179071230-268e605f-3df7-44ea-a4fb-ce6cf21265d0.gif)
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/100448527/179077002-f10dfce4-d057-4b2f-bb12-6a5058a9169c.gif)
 
 
